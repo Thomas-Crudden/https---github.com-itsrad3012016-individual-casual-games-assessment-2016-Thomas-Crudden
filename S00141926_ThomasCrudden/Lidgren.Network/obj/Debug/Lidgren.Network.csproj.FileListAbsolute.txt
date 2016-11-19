@@ -1,0 +1,8 @@
+C:\Users\thomas\Desktop\Assignment 1\S00141926_ThomasCrudden\Lidgren.Network\bin\Debug\Lidgren.Network.XML
+C:\Users\thomas\Desktop\Assignment 1\S00141926_ThomasCrudden\Lidgren.Network\bin\Debug\Lidgren.Network.dll
+C:\Users\thomas\Desktop\Assignment 1\S00141926_ThomasCrudden\Lidgren.Network\bin\Debug\Lidgren.Network.pdb
+C:\Users\thomas\Desktop\Assignment 1\S00141926_ThomasCrudden\Lidgren.Network\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thomas\Desktop\Assignment 1\S00141926_ThomasCrudden\Lidgren.Network\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thomas\Desktop\Assignment 1\S00141926_ThomasCrudden\Lidgren.Network\obj\Debug\Lidgren.Network.dll
+C:\Users\thomas\Desktop\Assignment 1\S00141926_ThomasCrudden\Lidgren.Network\obj\Debug\Lidgren.Network.pdb
+C:\Users\thomas\Desktop\Assignment 1\S00141926_ThomasCrudden\Lidgren.Network\obj\Debug\Lidgren.Network.csprojResolveAssemblyReference.cache

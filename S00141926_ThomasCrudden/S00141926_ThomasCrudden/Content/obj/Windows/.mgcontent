@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/thomas/Desktop/Assignment 1/S00141926_ThomasCrudden/S00141926_ThomasCrudden/Content/PlayerIcons/P1.png</File>
+    <File>C:/Users/thomas/Desktop/Assignment 1/S00141926_ThomasCrudden/S00141926_ThomasCrudden/Content/PlayerIcons/P2.png</File>
+    <File>C:/Users/thomas/Desktop/Assignment 1/S00141926_ThomasCrudden/S00141926_ThomasCrudden/Content/PlayerIcons/P3.png</File>
+    <File>C:/Users/thomas/Desktop/Assignment 1/S00141926_ThomasCrudden/S00141926_ThomasCrudden/Content/PlayerIcons/P4.png</File>
+    <File>C:/Users/thomas/Desktop/Assignment 1/S00141926_ThomasCrudden/S00141926_ThomasCrudden/Content/PlayerIcons/P5.png</File>
+    <File>C:/Users/thomas/Desktop/Assignment 1/S00141926_ThomasCrudden/S00141926_ThomasCrudden/Content/key.png</File>
+    <File>C:/Users/thomas/Desktop/Assignment 1/S00141926_ThomasCrudden/S00141926_ThomasCrudden/Content/keyboardfont.spritefont</File>
+    <File>C:/Users/thomas/Desktop/Assignment 1/S00141926_ThomasCrudden/S00141926_ThomasCrudden/Content/Collectable/Square.png</File>
+  </SourceFiles>
+</SourceFileCollection>
